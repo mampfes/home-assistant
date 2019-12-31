@@ -1,0 +1,12 @@
+{
+  "domain": "ownet",
+  "name": "Onewire OWNet",
+  "documentation": "https://www.home-assistant.io/integrations/ownet",
+  "requirements": [
+    "pyownet==0.10.0.post1"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@mampfes"
+  ]
+}
